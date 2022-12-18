@@ -18,7 +18,7 @@ This repository contains implementation of our work titled as _Reward Delay Atta
   pip install -r requirements.txt
 ```
 
-**Reward Delay Attack**:
+## Reward Delay Attack
 
 **Pong Environment**: Reward Delay Attack without the "wait action" option for the attacker is implemented in the following jupyter notebook file:
 
@@ -32,7 +32,7 @@ This repository contains implementation of our work titled as _Reward Delay Atta
   Reward_delay_Attack_Breakout_no_wait.ipynb
 ```
 
-## Reward Delay Attack with the additional "wait action" option for the attacker is implemented in the following jupyter notebook file:
+**Reward Delay Attack with the additional "wait action" option for the attacker is implemented in the following jupyter notebook file:**
 
 **Pong Environment**: For the pong environment:
 
