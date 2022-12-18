@@ -1,7 +1,7 @@
 # Reward Delay Attacks on Deep Reinforcement Learning
 
 
-This repository contains implementation of our work titled as __Reward Delay Attacks on Deep Reinforcement Learning_. We propose two different threat model for Reward Delay Attack ((a) Reward Shifting Attack; (b) Reward Delay Attack) on Deep Reinforcement Learning Framework.
+This repository contains implementation of our work titled as _Reward Delay Attacks on Deep Reinforcement Learning_. We propose two different threat model for Reward Delay Attack ((a) Reward Shifting Attack; (b) Reward Delay Attack) on Deep Reinforcement Learning Framework.
 
 <img src="./figures/framework.png" alt="WAMI_Positives" style="width: 200p;"/>
 
