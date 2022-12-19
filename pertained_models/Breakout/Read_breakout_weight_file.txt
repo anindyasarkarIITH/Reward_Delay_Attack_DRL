@@ -1,2 +1,4 @@
 
-download link of a pretrained model in breakout environment will be provided soon here.
+Download link of a pretrained learner model in breakout environment is provided below:
+
+https://drive.google.com/file/d/1F3yPgyBlLJQtcYvuRMqFYGoGn0zyEuHz/view?usp=sharing
