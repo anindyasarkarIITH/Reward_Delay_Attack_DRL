@@ -46,7 +46,7 @@ This repository contains implementation of our work titled as _Reward Delay Atta
 ```
 Note that: In order to implement untargeted attack in each of the above different settings, just modify the **__dynamic_reward__** method of the  **Attacker** class as suggested in the script.
 
-**Rule Based Targeted Reward Delay Attack**
+**Rule Based Targeted Reward Delay Attack:**
 
 **Pong Environment**: For the pong environment:
 
@@ -57,6 +57,18 @@ Note that: In order to implement untargeted attack in each of the above differen
 
 ```shell
   DS_Targeted_attack_Breakout-BEFORE-REPLAY-BUFFER-FREE-DS10-RULE.ipynb
+```
+**Reward Delay Attack on a Pretrained Model:**
+
+**Pong Environment**: For the pong environment:
+
+```shell
+  Trained_Untar_attack_pong-Delay_reward.ipynb
+```
+**Breakout Environment**: For the Breakout Environment:
+
+```shell
+  DS_Targeted_attack_Breakout-BEFORE-REPLAY-BUFFER-FREE-DS10-TRAINED.ipynb
 ```
 
 For questions or comments, please send an e-mail to **anindyasarkar.ece@gmail.com** or use the issue tab in github.
